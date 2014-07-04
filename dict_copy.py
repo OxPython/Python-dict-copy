@@ -8,7 +8,7 @@ How to copy or clone a dict in Python?
 ¿Cómo copiar o clonar un diccionario en Python?
 
 The method copy() returns a shallow copy of the dictionary.
-d2 = d.copy() is not equal that d2 = d
+d2 = d.copy() is not equal than d2 = d
 '''
 
 #dict with three values and keys
